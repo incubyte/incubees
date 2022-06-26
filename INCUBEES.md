@@ -3,7 +3,7 @@
 - [Utsav Parmar](https://github.com/utsav00)
 - [Akshay Vadher](https://github.com/akshayvadher)
 - [Gaurav](https://github.com/hsgaurav)
-- [Taha Bikanerwala](https://github.com/TahaBikanerwala?tab=repositories)
+- [Taha Bikanerwala](https://github.com/TahaBikanerwala)
 - [Huzefa Chabukswar](https://github.com/HuzefaC)
 - [Sajag Jain](https://github.com/sajagjain)
 - [Waqar Shaikh](https://github.com/waqarshaikh)
