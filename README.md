@@ -101,6 +101,6 @@ Now submit the pull request.
 <img style="float: right;" src="images/submit-pull-request.png" alt="submit pull request" />
 
 
-## Where to go from here?
+## Hello Incubee
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
